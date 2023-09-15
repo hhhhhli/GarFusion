@@ -1,7 +1,7 @@
-# Garment Classification based on Shallow Temporal Feature Extraction and Tree-shaped Fusion
+# Deforming Garment Classification with Shallow Temporal Extraction and Tree-based Fusion
 
 ## Introduction
-This repository is the supplementary codes for our paper submitted to IEEE Transactions on Instrumentation and Measurement (TIM).
+This repository is the supplementary codes for our paper submitted to IEEE Robotics and Automation Letters (RAL).
 
 Implementation details will be available after the paper is accepted.
 
